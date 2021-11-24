@@ -1,0 +1,50 @@
+body{
+    
+}
+#aussen{
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 400px; 
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+#innen{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 128px;
+    left: 300px;
+}
+#überschrifft{
+    position: relative;
+    top: 20px;
+    left: 20px;
+
+}
+#rechts{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+#untent{
+    background-color: yellow;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    
+}
+#klein{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+   
+  
+}
+
+

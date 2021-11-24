@@ -1,0 +1,36 @@
+body{
+    background-color: chartreuse;
+}
+ 
+
+/* Kalssenselector */
+ .outerbox{
+    background-color: red;
+    width:200px;
+    height:200px;
+}
+.innerbox{
+    background-color: darkblue;
+    width: 50px;
+    height: 50px;
+}
+.unten{
+    background-color:darkgreen;
+    width: 150px;
+    height: 150px;
+}
+.weiterunten{
+    width:100px;
+    height:100px;
+    background-color: orchi}
+
+.outerbox2{
+    background-color: red;
+    width:200px;
+    height:200px;
+}
+.innerbox2{
+background-color: blue;
+width: 50px;
+height: 50px;
+}

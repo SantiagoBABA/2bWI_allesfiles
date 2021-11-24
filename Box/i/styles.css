@@ -1,0 +1,41 @@
+.main
+{
+    position: absolute;
+    background-color: aqua;
+    width: 200px;
+    height: 400px;
+    margin: 40px
+}
+.secondary
+{
+    position: absolute;
+    background-color: greenyellow;
+    bottom: 0px;
+    right: 0px;
+    width: 40px;
+    height: 40px;
+}
+.floating
+{
+    position: relative;
+    background-color: black;
+    right: 10px;
+    bottom: 10px;
+    width: 20px;
+    height: 20px;
+}
+.container
+{
+    display: flex;
+    position: fixed;
+    flex-direction: row;
+    justify-content: space-evenly;
+    bottom: 0px;
+    width: 200px;
+    height: 30px;
+}
+.box
+{
+    height: 10px;
+    width: 40px;
+    background-color: greenyellow;
